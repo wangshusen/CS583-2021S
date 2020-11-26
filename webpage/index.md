@@ -52,9 +52,17 @@ Schedule
 
 - Preparations
 
-	* Install the software packages by following [[this](https://github.com/wangshusen/CS583-2019F/blob/master/homework/Prepare/HM.pdf)]
+	* Install the software packages by following [[this](https://github.com/wangshusen/CS583-2019F/blob/master/homework/Prepare/HM.pdf)].
 	
-	* Study elementary matrix algebra by following [[this book](http://vmls-book.stanford.edu/vmls.pdf)]
+	* Study elementary matrix algebra by following [[this book](http://vmls-book.stanford.edu/vmls.pdf)].
+	
+	* If you are unfamilar with matrix computation, you need to watch the recorded lectures:
+	
+	    - Addition and multiplication [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_1.pdf)]
+	  [[video](https://youtu.be/ZTtW6SMTmcY)].
+	
+	    - Dense and sparse matrix data structures [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_2.pdf)]
+	  [[video](https://youtu.be/fy_dSZb-Xx8)].
 	
 	* Finish the [[sample questions](https://github.com/wangshusen/CS583-2019F/blob/master/homework/Quiz1-Sample/Q1.pdf)] before Quiz 1.
 
