@@ -4,7 +4,7 @@ CS583: Deep Learning
 
 > Instructor: Shusen Wang
 
-> TA: Xuting Tang
+> TA: Xuting Tang and Sesha Vadlamudi
 
 
 Description
@@ -19,7 +19,9 @@ Description
 
 **Office Hours:**
 
-- Friday, 5:30-7:30 PM, Gateway South 354 or virtual
+- Thursday, 9:00-10:00 PM, Gateway South 354 or virtual
+
+- Friday, 5:30-6:30 PM, Gateway South 354 or virtual
 
 
 
@@ -27,7 +29,7 @@ Description
 
 - For questions regarding grading, talk to the instructor during office hours or send him emails.
 
-- For any other questions, come during the office hours; the instructor will NOT reply such emails.
+- For technical questions, post the question on the "discussion" module of Canvas or ask the instructor during the office hours.
 
 
 **Prerequisite:**
@@ -56,7 +58,7 @@ Schedule
 	
 	* Study elementary matrix algebra by following [[this book](http://vmls-book.stanford.edu/vmls.pdf)].
 	
-	* If you are unfamilar with matrix computation, you need to watch the recorded lectures:
+	* If you are unfamilar with matrix computation, you need to watch the recorded lectures of CS600:
 	
 	    - Addition and multiplication [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_1.pdf)]
 	  [[video](https://youtu.be/ZTtW6SMTmcY)].
@@ -64,10 +66,18 @@ Schedule
 	    - Dense and sparse matrix data structures [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_2.pdf)]
 	  [[video](https://youtu.be/fy_dSZb-Xx8)].
 	
+	* Study probability theory and randomized algorithms by watching the recorded lectures of CS600:
+	
+	    - Monte Carlo [[slides](https://github.com/wangshusen/AdvancedAlgorithms)]
+	  [[video](https://youtu.be/CmpWM2HMhxw)].
+	
+	    - Random permutation [[slides](https://github.com/wangshusen/AdvancedAlgorithms)]
+	  [[video](https://youtu.be/xaSBvljOQkc)].
+	
 	* Finish the [[sample questions](https://github.com/wangshusen/CS583-2019F/blob/master/homework/Quiz1-Sample/Q1.pdf)] before Quiz 1.
 
 
-- Jan 21/22, Lecture 1
+- Feb 4/5, Lecture 1
 
     * Read these in advance: 
     [[Matrix Calculus](https://github.com/wangshusen/CS583A-2019Spring/blob/master/reading/MatrixCalculus.pdf)]
@@ -78,7 +88,7 @@ Schedule
     * Classification: logistic regression.
     
     
-- Jan 28/29, Lecture 2
+- Feb 11/12, Lecture 2
     
     * Classification: SVM, softmax classifier, and KNN.
     
@@ -86,7 +96,7 @@ Schedule
     
     
     
-- Feb 4/5, Lecture 3
+- Feb 18/19, Lecture 3
 
     * Read Sections 1 to 4 in advance: [[neural networks and backpropagation](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/BP/bp.pdf)]
             
@@ -96,7 +106,7 @@ Schedule
 
 
 
-- Feb 7, 8:30PM - 10:00PM, **Quiz 1**, online
+- Feb 21, 8:30PM - 10:00PM, **Quiz 1**, online
 
 	* Coverage: vectors norms ($\ell_2$-norm, $\ell_1$-norm, $\ell_p$-norm, $\ell_\infty$-norm), vector inner product, matrix multiplication, matrix trace, matrix Frobenius norm, scalar function differential, convex function, use Numpy for matrix computation, and ML basics.
 	
@@ -104,17 +114,17 @@ Schedule
   
 
 
-- Feb 11/12, Lecture 4
+- Feb 25/26, Lecture 4
     
     * Convolutional neural networks (CNNs).
 
 
-- Feb 18/19, Lecture 5
+- Mar 4/5, Lecture 5
     
     * CNNs: Useful tricks, batch normalization, theories, face recognition.
 
 
-- Feb 25/26, Lecture 6
+- Mar 11/12, Lecture 6
 
     * Read the note in advance: [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)] 
     
@@ -123,7 +133,7 @@ Schedule
     * Parallel computing.
     
 
-- Mar 4/5, Lecture 7
+- Mar 18/19, Lecture 7
 
     * Federated learning.
 
@@ -132,7 +142,7 @@ Schedule
     * Simple RNN.
 
 
-- Mar 7, 8:30PM - 10:00PM, **Quiz 2**, online
+- Mar 21, 8:30PM - 10:00PM, **Quiz 2**, online
 
 	* Coverage: vector and matrix operations, gradients, ML basics, neural networks, CNNs, parallel computing.
 	
@@ -141,12 +151,12 @@ Schedule
 	* Sample: [[click here](https://github.com/wangshusen/CS583-2020S/blob/master/homework/Exam-Sample/Sample.pdf)]
 	
     
-- Mar 11/12, Lecture 8
+- Mar 25/26, Lecture 8
 
     * RNNs: LSTM, Text generation, machine translation.
 
 
-- Mar 18/19, Lecture 9
+- Apr 1/2, Lecture 9
 
     * Attention and self-attention.
 
@@ -154,7 +164,7 @@ Schedule
 
     
     
-- Mar 25/26, Lecture 10
+- Apr 8/9, Lecture 10
 
     * Autoencoders.
     
@@ -162,7 +172,7 @@ Schedule
     
 	
     
-- Apr 4/5, Lecture 11
+- Apr 15/16, Lecture 11
 
 
 
