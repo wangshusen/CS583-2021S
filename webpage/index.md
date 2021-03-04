@@ -12,16 +12,16 @@ Description
 
 **Meeting Time:**
 
-- Section A: Thursday, 6:30-9:00 PM, Online or Hybrid
+- Section A: Thursday, 6:30-9:00 PM, Online
 
-- Section B: Friday, 3:00-5:30 PM, Online or Hybrid
+- Section B: Friday, 3:00-5:30 PM, Online
 
 
 **Office Hours:**
 
-- Thursday, 9:00-10:00 PM, Gateway South 354 or virtual
+- Thursday, 9:00-10:00 PM, virtual
 
-- Friday, 5:30-6:30 PM, Gateway South 354 or virtual
+- Friday, 5:30-6:30 PM, virtual
 
 
 
@@ -79,24 +79,48 @@ Schedule
 
 - Feb 4/5, Lecture 1
 
+    * ML Basics
+    
+    * Linear Regression
+    
+    
+- Feb 11/12, Lecture 2
+
     * Read these in advance: 
     [[Matrix Calculus](https://github.com/wangshusen/CS583A-2019Spring/blob/master/reading/MatrixCalculus.pdf)]
     [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
 
-    * Regression
+    
+    * Polynomial Regression
     
     * Classification: logistic regression.
     
     
-- Feb 11/12, Lecture 2
-    
-    * Classification: SVM, softmax classifier, and KNN.
-    
-    * Regularizations.
-    
     
     
 - Feb 18/19, Lecture 3
+    
+    * Classification: SVM.
+
+    * Regularizations.
+
+
+- Feb 21, 8:30PM - 10:00PM, **Quiz 1**, online
+
+	* Coverage: vectors norms ($\ell_2$-norm, $\ell_1$-norm, $\ell_p$-norm, $\ell_\infty$-norm), vector inner product, matrix multiplication, matrix trace, matrix Frobenius norm, scalar function differential, convex function, use Numpy for matrix computation, randomized algorithm, and ML basics.
+	
+	* Time limit: 60 minutes
+  
+
+
+- Feb 25/26, Lecture 4
+
+    * Classification: SVM, softmax classifier, and KNN.
+    
+    * Scientific computing.
+
+
+- Mar 4/5, Lecture 5
 
     * Read Sections 1 to 4 in advance: [[neural networks and backpropagation](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/BP/bp.pdf)]
             
@@ -105,41 +129,22 @@ Schedule
     * Keras.
 
 
-
-- Feb 21, 8:30PM - 10:00PM, **Quiz 1**, online
-
-	* Coverage: vectors norms ($\ell_2$-norm, $\ell_1$-norm, $\ell_p$-norm, $\ell_\infty$-norm), vector inner product, matrix multiplication, matrix trace, matrix Frobenius norm, scalar function differential, convex function, use Numpy for matrix computation, and ML basics.
-	
-	* Time limit: 30 minutes
-  
-
-
-- Feb 25/26, Lecture 4
+- Mar 11/12, Lecture 6
     
     * Convolutional neural networks (CNNs).
-
-
-- Mar 4/5, Lecture 5
     
     * CNNs: Useful tricks, batch normalization, theories, face recognition.
+        
 
-
-- Mar 11/12, Lecture 6
+- Mar 18/19, Lecture 7
 
     * Read the note in advance: [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)] 
     
     * CNN architectures.
     
     * Parallel computing.
-    
 
-- Mar 18/19, Lecture 7
 
-    * Federated learning.
-
-    * Text processing.
-    
-    * Simple RNN.
 
 
 - Mar 21, 8:30PM - 10:00PM, **Quiz 2**, online
@@ -153,27 +158,36 @@ Schedule
     
 - Mar 25/26, Lecture 8
 
-    * RNNs: LSTM, Text generation, machine translation.
+    * Federated learning.
+
+    * Text processing.
+    
+    * Simple RNN.
+    
 
 
 - Apr 1/2, Lecture 9
 
-    * Attention and self-attention.
-
-    * Transformer and BERT.
+    * RNNs: LSTM, Text generation, machine translation.
+    
 
     
     
 - Apr 8/9, Lecture 10
 
-    * Autoencoders.
+
+    * Attention and self-attention.
+
+    * Transformer and BERT.
     
-    * Variational Autoencoder (VAE).
     
 	
     
 - Apr 15/16, Lecture 11
 
+    * Autoencoders.
+    
+    * Variational Autoencoder (VAE).
 
 
 
@@ -187,36 +201,36 @@ Assignments and Bonus Scores
 
 	* Available only on Canvas (auto-graded.)
 	
-	* Submit to Canvas before Feb 6.
+	* Submit to Canvas before Feb 21.
 	
  
 - Homework 2: Implement Numerical Optimization Algorithms
 
-	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2020S/tree/master/homework)].
+	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2021S/tree/master/homework)].
 	* You will need the knowledge in the lecture note: [[Logistic Regression](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Logistic/paper/logistic.pdf)]
 	
-	* Submit to Canvas before Feb 23.
+	* Submit to Canvas before Mar 7.
 
  	
 - Homework 3: Machine Learning Basics
 
 	* Available only on Canvas (auto-graded.)
 
-	* Submit to Canvas before Mar 8.
+	* Submit to Canvas before Mar 14.
 	
  
 - Homework 4: Implement a Convolutional Neural Network
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2021S/tree/master/homework)].
 	
-	* Submit to Canvas before Mar 22.
+	* Submit to Canvas before Mar 21.
 	
  
 - Homework 5: Implement a Recurrent Neural Network
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2021S/tree/master/homework)].
 	
-	* Submit to Canvas before Apr 12.
+	* Submit to Canvas before Apr 18.
 	
 	* You may get up to 2 bonus scores by doing extra work. 
 	
@@ -229,7 +243,7 @@ Assignments and Bonus Scores
 	
 	* You can choose to implement Federated Averaging or/and Decentralized Optimization. You may get up to 2 bonus points for each. 
 	
-	* Submit to Canvas before Apr 5 (firm deadline).
+	* Submit to Canvas before Apr 11 (firm deadline).
 
  
 - Bonus 2: Implement an Autoencoder Network (Voluntary)

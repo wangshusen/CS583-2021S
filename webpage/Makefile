@@ -16,11 +16,11 @@ index.html: style_chmduquesne.css index.md
 
 docx: index.docx
 index.docx: index.md
-	pandoc -s -S index.md -o index.docx
+	pandoc -s index.md -o index.docx
 
 rtf: index.rtf
 index.rtf: index.md
-	pandoc -s -S index.md -o index.rtf
+	pandoc -s index.md -o index.rtf
 
 clean:
 	rm index.html
