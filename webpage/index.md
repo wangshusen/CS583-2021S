@@ -221,7 +221,7 @@ Schedule
     * Deep Reinforcement Learning (Cont.)
     
     
-- May 16, 8:30PM - 10:30PM, **Bonus Quiz**, online
+- May 16, 8:30PM - 10:30PM, **Final Exam**, online
 
 	* Coverage: Everything, Including Monte Carlo, Transformer, BERT, Few-Shot Learning, Deep Reinforcement Learning.
 	
