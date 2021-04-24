@@ -133,21 +133,26 @@ Schedule
     
     * Convolutional neural networks (CNNs).
     
-    * CNNs: Useful tricks, batch normalization, theories, face recognition.
+    * CNNs: Useful tricks
         
 
 - Mar 18/19, Lecture 7
 
     * Read the note in advance: [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/Parallel/Parallel.pdf)] 
     
+    * CNNs: batch normalization, theories.
+
+
+
+    
+- Mar 25/26, Lecture 8
+    
     * CNN architectures.
     
-    * Parallel computing.
+    * Parallel computing.    
 
 
-
-
-- Mar 21, 8:30PM - 10:00PM, **Quiz 2**, online
+- Mar 28, 8:30PM - 10:00PM, **Quiz 2**, online
 
 	* Coverage: vector and matrix operations, gradients, ML basics, neural networks, CNNs, parallel computing.
 	
@@ -155,40 +160,72 @@ Schedule
 
 	* Sample: [[click here](https://github.com/wangshusen/CS583-2020S/blob/master/homework/Exam-Sample/Sample.pdf)]
 	
-    
-- Mar 25/26, Lecture 8
+
+- Apr 1/2, Lecture 9
 
     * Federated learning.
 
     * Text processing.
     
     * Simple RNN.
-    
 
-
-- Apr 1/2, Lecture 9
-
-    * RNNs: LSTM, Text generation, machine translation.
     
 
     
     
 - Apr 8/9, Lecture 10
 
-
-    * Attention and self-attention.
-
-    * Transformer and BERT.
-    
-    
+    * RNNs: LSTM, Text generation, machine translation.
 	
     
 - Apr 15/16, Lecture 11
 
+    * Attention and self-attention.
+
+    * Transformer and BERT.
+
+
+    
+- Apr 22/23, Lecture 12
+
     * Autoencoders.
     
     * Variational Autoencoder (VAE).
+    
+    * Adversarial Robustness.
 
+
+- Apr 25, 8:30PM - 10:00PM, **Quiz 3**, online
+
+	* Coverage: ML basics, CNNs, RNNs, and Transformer.
+	
+	* Time limit: 50 minutes. 
+
+
+- Apr 29, 7:00AM - 6:00PM, **Bonus Quiz**, online
+
+	* Coverage: Deep Reinforcement Learning.
+	
+	* Time limit: 30 minutes. 
+	
+    
+- Apr 29/30, Lecture 13
+
+    * GAN.
+    
+    * Deep Reinforcement Learning.
+    
+    
+- May 6/7, Lecture 14
+
+    * Deep Reinforcement Learning (Cont.)
+    
+    
+- May 16, 8:30PM - 10:30PM, **Bonus Quiz**, online
+
+	* Coverage: Everything, Including Monte Carlo, Transformer, BERT, Few-Shot Learning, Deep Reinforcement Learning.
+	
+	* Time limit: 100 minutes. 
 
 
 
@@ -216,21 +253,21 @@ Assignments and Bonus Scores
 
 	* Available only on Canvas (auto-graded.)
 
-	* Submit to Canvas before Mar 14.
+	* Submit to Canvas before Mar 21.
 	
  
 - Homework 4: Implement a Convolutional Neural Network
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2021S/tree/master/homework)].
 	
-	* Submit to Canvas before Mar 21.
+	* Submit to Canvas before Mar 28.
 	
  
 - Homework 5: Implement a Recurrent Neural Network
 
 	* Available at the course's repo [[click here](https://github.com/wangshusen/CS583-2021S/tree/master/homework)].
 	
-	* Submit to Canvas before Apr 18.
+	* Submit to Canvas before Apr 25.
 	
 	* You may get up to 2 bonus scores by doing extra work. 
 	
